@@ -1,21 +1,21 @@
 # Web-Chat-Application
 A real time chat application implemented using php, ajax , SQL,HTML , CSS and Bootstrap
 
-#Web Chat App
+# Web Chat App
 
 This repository contains a real-time web chat application implemented using Node.js, Express, Socket.IO, RxJS and Angular. It contains users and admins with groups and channels.
-#Status
+# Status
 
 This application currently holds the following functionality:
-#Super Admin
+# Super Admin
 
-    *Assign users with Group admin or Super admin roles
-    *Also has group admin privileges
-    *Can remove users from the chat application
+    * Assign users with Group admin or Super admin roles
+    * Also has group admin privileges
+    * Can remove users from the chat application
     
-#Users
+# Users
 
-    *Identified by username
-    *One persistent user called Super who is a Super admin
-    *Can assign an email address to itself
+    * Identified by username
+    * One persistent user called Super who is a Super admin
+    * Can assign an email address to itself
 
